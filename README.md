@@ -3,7 +3,7 @@
 ## About me
 
 My name is Hanuma. I am a Software Engineer and an Architect. I have been
-programming in several languages like Javascript(and also Typescript), Java,
+programming in several languages like Javascript(and also Typescript),Java,
 Python, C# and Rust, and I'm an aspiring Polyglot programmer
 
 [Programming Paradigms](./programming-paradigms/README.md)
