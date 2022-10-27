@@ -1,3 +1,8 @@
 {
-  "cSpell.words": ["Hanuma"]
+  "cSpell.words": ["Hanuma"],
+  "markdown-preview-github-styles.colorTheme": "light",
+  "markdown.preview.fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+  "markdown.styles": [],
+  "markdown.validate.referenceLinks.enabled": "warning",
+  "markdown.preview.lineHeight": 12.0
 }
